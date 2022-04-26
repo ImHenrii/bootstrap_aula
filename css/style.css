@@ -1,0 +1,28 @@
+body{
+   
+   font: 30px Garamond, Serif;
+   
+}
+.navbar{
+    background-color:#B61515;
+}
+.quem-somos{
+    background-color:#C85C11;
+    font-family: fantasy;
+
+}
+.margin{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.parceiros{
+    background-color:#FFAA3E;
+    font-family: fantasy;
+}.serviços{
+    background-color:#f85307;
+    font-family: fantasy;
+}
+.bg-footer{
+    background-color:#FF3E3E ;
+    font-family: fantasy;
+}
